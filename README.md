@@ -17,7 +17,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/CarlosMateoM/NFTPreviewCardFrontedMentor)
-- Live Site URL: [Add live site URL hegit re](https://your-live-site-url.com)
+- Live Site URL: [GitHub Pages](https://carlosmateom.github.io/NFTPreviewCardFrontedMentor/)
 
 ### Built with
 
